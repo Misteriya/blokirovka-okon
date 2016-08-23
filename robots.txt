@@ -1,9 +1,2 @@
 User-agent: *
-Disallow: 
-
-User-agent: Yandex
-Disallow: 
-
-Host: ubrat-reklamu.ru  
-
-Sitemap: http://ubrat-reklamu.ru/sitemap.xml
+Disallow: /
